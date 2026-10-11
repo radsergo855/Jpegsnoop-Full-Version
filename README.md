@@ -240,4 +240,4 @@ This repository serves as the official landing page for JPEGsnoop. The software 
 **Get the most recent version of JPEGsnoop today!**
 
 ---
-**Last updated:** 2026-10-11 13:56:33 UTC
+**Last updated:** 2026-10-11 18:46:05 UTC
